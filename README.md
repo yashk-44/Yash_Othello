@@ -40,7 +40,7 @@ The game supports **multiple player configurations**, enforces all standard Othe
 ## Computer vs Computer simulations
 
 ### Simulation info:
-There are four different simulations, running 10,000 games on random vs random and random vs greedy.
+There are two different simulations, running 10,000 games on random vs random and random vs greedy each.
 
 ### Simulation observations:
 At the end of each simulation, the win probability was outputted on a scale of 0 to 1 (with 1 meaning 100% win probability). 
