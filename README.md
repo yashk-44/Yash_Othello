@@ -3,6 +3,8 @@
 ## Academic Integrity policy
 This program was written for University of Toronto's CSC207 course. In accordance to their academic integrity policy, I cannot openly share any implementation details on this repository. I will be, however, open to discuss the project in an interview setting.
 
+---
+
 ## Overview
 
 This repository contains a **demonstration video** of my Java Othello/Reversi console-based game which I implemented as a project for my CSC207 course.
