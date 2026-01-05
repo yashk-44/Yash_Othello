@@ -5,10 +5,17 @@ This program was written for University of Toronto's CSC207 course. In accordanc
 
 ## Overview
 
-This project is a **fully integrated console-based implementation of the classic game Othello (Reversi)** written in Java.  
-It demonstrates object-oriented programming principles as taught in **CSC207**: inheritance, polymorphism, abstraction, encapsulation.
+This repository contains a **demonstration video** of my Java Othello/Reversi console-based game which I implemented as a project for my CSC207 course.
+
+This project demonstrates my understanding of OOP principles taught in **CSC207**: inheritance, polymorphism, abstraction, and encapsulation.
 
 The game supports **multiple player configurations**, enforces all standard Othello rules, and allows for automated gameplay simulations between computer-controlled players.
+
+---
+
+## Where to see the demonstration video?
+
+The demonstration video is in this repository, labelled as "Othello_demo.mp4".
 
 ---
 
